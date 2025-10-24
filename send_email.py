@@ -7,7 +7,7 @@ from flask import Flask
 
 
 YOUR_EMAIL = "rhitsarkar@gmail.com"      # Your email address
-YOUR_APP_PASSWORD = "gppgle app password" # Your Google App Password
+YOUR_APP_PASSWORD = "google app password" # Your Google App Password
 YOUR_NAME = "Sulogno Sarkar"
 
 # --- RECIPIENT & SUBJECT ---
